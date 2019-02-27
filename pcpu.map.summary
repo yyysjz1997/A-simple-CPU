@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Sat Jan 06 19:39:17 2018
+Quartus II 64-Bit Version : 9.1 Build 350 03/24/2010 SP 2 SJ Full Version
+Revision Name : pcpu
+Top-level Entity Name : pcpu
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 190
+    Dedicated logic registers : 91
+Total registers : 91
+Total pins : 149
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0
